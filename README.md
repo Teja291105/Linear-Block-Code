@@ -118,10 +118,8 @@ print(f"The correct codeword is : " + " " .join(map(str,add1)))
 
 ![WhatsApp Image 2025-04-12 at 15 46 24_5fc9564d](https://github.com/user-attachments/assets/da757a27-d2ac-4f3e-9534-0774afcc7e46)
 ![WhatsApp Image 2025-04-12 at 15 47 18_b1476647](https://github.com/user-attachments/assets/b637a8d7-32d8-4124-bc14-ce69749d82b7)
-
 # Output:
 ![image](https://github.com/user-attachments/assets/a6ce31c1-56e0-4735-86b2-8014a33603a4)
 ![image](https://github.com/user-attachments/assets/acc478a7-54e7-4900-85d2-00149d22a553)
-
 # Results:
 The Linear Block Code was successfully implemented using a (6,3) block code. A message of 3 bits was encoded into a 6-bit codeword using the generator matrix. An error was introduced manually, and the received codeword was checked using the parity check matrix.
